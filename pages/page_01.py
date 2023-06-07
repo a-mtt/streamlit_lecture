@@ -5,3 +5,4 @@ st.markdown("bblaa")
 st.markdown("""# This is a header
 ## This is a sub header
 This is text""")
+st.write(st.secrets.new_section.magic)
